@@ -1,0 +1,2 @@
+Prefix plugins/Chao/example/
+Plugin Chao inputfile abund.csv outputfile abund.chao.csv
