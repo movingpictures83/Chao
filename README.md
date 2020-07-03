@@ -2,7 +2,8 @@
 # Language: R
 # Input: CSV (network)
 # Output: CSV (distances)
-# Tested with: PluMA 1.0, R 3.2.5
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: vegan_2.5.6
 
 PluMA plugin that computes dissimilarity using Chao's Method (Chao, 2005), which accounts for presence and absence.
 The input CSV file can thus be non-normalized abundances; the expected format is rows representing samples and columns
